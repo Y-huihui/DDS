@@ -1,0 +1,2 @@
+# DDS
+Design a DDS signal generator. 1) Select the output waveform by pressing the button, including sine wave, square wave, sawtooth wave, triangle wave; 2) The output frequency is adjustable, from 10Hz to 1MHz, and the frequency step is 1Hz; 3) The output amplitude is adjustable, the amplitude quantization bit is 16bit, and the peak value can be set arbitrarily from 0 to 65535; 4) The duty cycle of the rectangular wave is adjustable, the duty cycle is from 0 to 99%, and the step is 1%. 
